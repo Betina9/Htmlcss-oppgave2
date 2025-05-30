@@ -1,0 +1,77 @@
+body {
+  background-color: hsl(0, 0%, 95%);
+}
+.container {
+  font-size: 15px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.sedans {
+  background-color: hsl(31, 77%, 52%);
+  width: 230px;
+  height: 400px;
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+  width: 230px;
+  height: 400px;
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  width: 230px;
+  height: 400px;
+  padding-top: 50px;
+  padding-left: 30px;
+}
+h2 {
+  color: hsl(0, 0%, 95%);
+  font-family: "Orbitron", sans-serif;
+  font-weight: 400;
+}
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  line-height: 1.6;
+  max-width: 173px;
+  margin: 0;
+}
+.btn1 {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(31, 77%, 52%);
+  border: none;
+  border-radius: 25%;
+  padding: 10px 15px;
+  margin-top: 80px;
+  cursor: pointer;
+}
+.btn2 {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(184, 100%, 22%);
+  border: none;
+  border-radius: 25%;
+  padding: 10px 15px;
+  margin-top: 80px;
+  cursor: pointer;
+}
+.btn3 {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(179, 100%, 13%);
+  border: none;
+  border-radius: 25%;
+  padding: 10px 15px;
+  margin-top: 80px;
+  cursor: pointer;
+}
+/*### Font
+
+- Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
+- Weights: 400
+
+- Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders?query=big+shoulders+display)
+- Weights: 700
