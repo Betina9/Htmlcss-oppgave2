@@ -1,5 +1,7 @@
 body {
   background-color: hsl(0, 0%, 95%);
+  font-family: 'Lexend Deca', serif;
+  font-weight: 400;
 }
 .container {
   font-size: 15px;
@@ -13,37 +15,43 @@ body {
   background-color: hsl(31, 77%, 52%);
   width: 230px;
   height: 400px;
-  padding-top: 50px;
+  padding-top: 40px;
   padding-left: 30px;
 }
 .suvs {
   background-color: hsl(184, 100%, 22%);
   width: 230px;
   height: 400px;
-  padding-top: 50px;
+  padding-top: 40px;
   padding-left: 30px;
 }
 .luxury {
   background-color: hsl(179, 100%, 13%);
   width: 230px;
   height: 400px;
-  padding-top: 50px;
+  padding-top: 40px;
   padding-left: 30px;
+}
+img {
+    margin-bottom: 5px;
 }
 h2 {
   color: hsl(0, 0%, 95%);
-  font-family: "Orbitron", sans-serif;
-  font-weight: 400;
+  font-family: 'Big Shoulders Display', serif;
+  font-weight: 700;
+  font-size: 30px;
 }
 p {
   color: hsla(0, 0%, 100%, 0.75);
   line-height: 1.6;
-  max-width: 173px;
+  max-width: 210px;
   margin: 0;
 }
 .btn1 {
   background-color: hsl(0, 0%, 95%);
   color: hsl(31, 77%, 52%);
+  font-family: 'Lexend Deca', serif;
+  font-weight: 400;
   border: none;
   border-radius: 999px;
   padding: 12px 30px;
@@ -53,6 +61,8 @@ p {
 .btn2 {
   background-color: hsl(0, 0%, 95%);
   color: hsl(184, 100%, 22%);
+  font-family: 'Lexend Deca', serif;
+  font-weight: 400;
   border: none;
   border-radius: 999px;
   padding: 12px 30px;
@@ -62,6 +72,8 @@ p {
 .btn3 {
   background-color: hsl(0, 0%, 95%);
   color: hsl(179, 100%, 13%);
+  font-family: 'Lexend Deca', serif;
+  font-weight: 400;
   border: none;
   border-radius: 999px;
   padding: 12px 30px;
